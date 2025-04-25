@@ -1,0 +1,7 @@
+dist
+node_modules
+stats.html
+.vercel
+.vite
+dev-dist
+__screenshots__*

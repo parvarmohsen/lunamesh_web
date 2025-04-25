@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.suggest.imports.autoDiscover": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "denoland.vscode-deno"
+}
